@@ -1,0 +1,14 @@
+{
+  "name": "CoffeeBean.Pooling",
+  "rootNamespace": "CoffeeBean.Pooling",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

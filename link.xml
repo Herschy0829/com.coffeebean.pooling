@@ -1,0 +1,5 @@
+# ===== CoffeeBean.Pooling 代码裁剪保护 =====
+# 防止 IL2CPP 裁剪掉通过反射/泛型使用的池化类型。
+<linker>
+  <assembly fullname="CoffeeBean.Pooling" preserve="all" />
+</linker>

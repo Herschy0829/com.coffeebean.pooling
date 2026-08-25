@@ -1,0 +1,21 @@
+{
+  "name": "CoffeeBean.Pooling.Tests",
+  "rootNamespace": "CoffeeBean.Pooling.Tests",
+  "references": [
+    "CoffeeBean.Pooling"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

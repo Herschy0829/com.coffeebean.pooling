@@ -1,0 +1,20 @@
+{
+  "name": "com.coffeebean.pooling",
+  "version": "0.1.0",
+  "displayName": "CoffeeBean Pooling",
+  "description": "Object pooling module for the CoffeeBean framework: pure-C# generic pool (CPool<T>) and GameObject prefab pool (CGameObjectPool) with lifecycle callbacks and delayed auto-return. Standalone, no dependencies.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Herschy0829"
+  },
+  "keywords": ["coffeebean", "pooling", "object-pool", "gameobject-pool"],
+  "dependencies": {},
+  "testables": ["com.coffeebean.pooling"],
+  "samples": [
+    {
+      "displayName": "Pooling Demo",
+      "description": "对象池示例：纯 C# 对象池借还、Prefab 池借还/复位/延迟回收。",
+      "path": "Samples~/PoolingDemo"
+    }
+  ]
+}
