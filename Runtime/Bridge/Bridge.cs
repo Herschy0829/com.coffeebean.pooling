@@ -6,13 +6,13 @@ using CoffeeBean;
 
 [assembly: CoffeeBeanModule(
     "com.coffeebean.pooling",
-    "0.1.0",
+    "0.2.0",
     DisplayName = "Pooling",
     Description = "Object pooling: generic CPool<T> and GameObject pool.",
     Dependencies = new[] { "com.coffeebean.core" }
 )]
 
-namespace CoffeeBean.Pooling
+namespace CoffeeBean
 {
     /// <summary>
     /// Core 集成：对象池是泛型 / 实例化服务，无法预注册默认实例，

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace CoffeeBean.Pooling
+namespace CoffeeBean
 {
     /// <summary>
     /// GameObject / Prefab 对象池（解决 Instantiate/Destroy 高频开销）：

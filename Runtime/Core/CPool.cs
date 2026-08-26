@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CoffeeBean.Pooling
+namespace CoffeeBean
 {
     /// <summary>
     /// 纯 C# 泛型对象池（无 Unity 依赖，可完整单元测试）。

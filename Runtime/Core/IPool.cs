@@ -1,4 +1,4 @@
-namespace CoffeeBean.Pooling
+namespace CoffeeBean
 {
     /// <summary>
     /// 对象池接口（借 / 还 / 预热 / 清空 + 统计）。

@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using CoffeeBean.Pooling;
 using UnityEngine;
 
 namespace CoffeeBean.Pooling.Demo

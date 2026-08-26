@@ -1,4 +1,4 @@
-namespace CoffeeBean.Pooling
+namespace CoffeeBean
 {
     /// <summary>
     /// 池化对象生命周期回调（可选实现）：挂载在池化 Prefab 的根节点上，

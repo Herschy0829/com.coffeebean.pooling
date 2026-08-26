@@ -1,6 +1,6 @@
 {
   "name": "com.coffeebean.pooling",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "CoffeeBean Pooling",
   "description": "Object pooling module for the CoffeeBean framework: pure-C# generic pool (CPool<T>) and GameObject prefab pool (CGameObjectPool) with lifecycle callbacks and delayed auto-return. Standalone, no dependencies.",
   "unity": "6000.0",
